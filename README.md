@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Megha Kourav</h1>
 
-<h3 align="center">Full-Stack Developer building modern web experiences with AI. 🚀</h3>
+<h3 align="center">
+  Full-Stack Developer building modern web experiences with AI. 🚀
+</h3>
 
+<p align="center">
+  <a href="https://github.com/the-coder-aadi">
+    <img src="https://img.shields.io/github/followers/the-coder-aadi?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/the-coder-aadi">
+    <img src="https://img.shields.io/github/stars/the-coder-aadi?label=Stars&style=flat" alt="GitHub Stars" />
+  </a>
+</p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 * 🔭 Currently building **[Medha AI](https://github.com/the-coder-aadi/GenAi-Project)**
 * 🌱 Currently learning **AI Agents, Advanced Generative AI & Scalable Full-Stack Development**
@@ -14,7 +24,9 @@
 * 📫 Reach me at **[workwithcoderaadi@gmail.com](mailto:workwithcoderaadi@gmail.com)**
 * ⚡ Fun fact: **I learn by building and build what I imagine. 🚀**
 
-### 🌐 Connect with Me
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/megha-kourav-0b1803404/" target="_blank">
@@ -31,48 +43,100 @@
   </a>
 </p>
 
-### 💻 Languages & Tools
+---
+
+## 💻 Tech Stack
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
 </p>
 
-### 📊 GitHub Stats
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-coder-aadi&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=the-coder-aadi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-coder-aadi&layout=compact&hide_border=true" height="180" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=the-coder-aadi&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-coder-aadi&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🗓️ Contribution Graph
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=the-coder-aadi&limit=5&combine_all_yearly_contributions=true" alt="Contribution Statistics"/>
+</p>
+
+---
+
+## 📦 Repository Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=the-coder-aadi&repo=GenAi-Project" alt="Medha AI Repository"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project                    | Description                                                   |
+| -------------------------- | ------------------------------------------------------------- |
+| 🤖 **Medha AI**            | GenAI-powered project focused on building smarter experiences |
+| 💰 **Hisab Kitab App**     | Full-stack application for managing financial records         |
+| 📋 **Task Management App** | Web application for managing and organizing tasks             |
+| 📅 **Booking App**         | Full-stack booking and management application                 |
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-coder-aadi" alt="GitHub Profile Summary"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Full-Stack Development  ████████████████████░░  90%
+Generative AI            ██████████████████░░░░  80%
+AI Agents                ████████████████░░░░░░  70%
+System Design            ██████████████░░░░░░░░  60%
+```
+
+---
+
+<p align="center">
+  <b>Building. Learning. Experimenting. Repeating. 🚀</b>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-coder-aadi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <i>Thanks for visiting my profile!</i> 👋
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-coder-aadi" alt="GitHub Streak" />
-</p>
