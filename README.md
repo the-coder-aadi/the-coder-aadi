@@ -68,15 +68,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-coder-aadi&layout=compact&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=the-coder-aadi&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
-
----
 
 ## 📈 Contribution Activity
 
