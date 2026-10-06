@@ -2,13 +2,6 @@
 
 <h3 align="center">Full-Stack Developer building modern web experiences with AI. 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=the-coder-aadi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=the-coder-aadi&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
 
 ---
 
