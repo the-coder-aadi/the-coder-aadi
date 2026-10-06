@@ -71,11 +71,9 @@
 
 ---
 
-## 🗓️ Contribution Graph
+## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=the-coder-aadi&limit=5&combine_all_yearly_contributions=true" alt="Contribution Statistics"/>
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=the-coder-aadi&hide_border=true" alt="GitHub Contribution Streak"/> </p>
 
 ---
 
