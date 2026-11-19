@@ -21,7 +21,7 @@
 * 🌱 Currently learning **AI Agents, Advanced Generative AI & Scalable Full-Stack Development**
 * 👯 Looking to collaborate on **innovative Web & GenAI projects**
 * 💬 Ask me about **Web Development & Generative AI**
-* 📫 Reach me at **[workwithcoderaadi@gmail.com](mailto:workwithcoderaadi@gmail.com)**
+* 📫 Reach me at **[meghakourav7@gmail.com](mailto:meghakourav7@gmail.com)**
 * ⚡ Fun fact: **I learn by building and build what I imagine. 🚀**
 
 ---
